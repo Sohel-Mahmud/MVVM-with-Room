@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--attributes are set twice once for api 26+ and next for api 16+-->
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/arial_rounded"
+        app:fontStyle="normal"
+        app:fontWeight="400"
+        app:font="@font/arial_rounded"
+        />
+</font-family>
